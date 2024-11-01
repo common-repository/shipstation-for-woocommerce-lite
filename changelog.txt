@@ -1,0 +1,7 @@
+*** ShipStation for WooCommerce ***
+
+2014.02.13 - version 1.1
+ * Fix for WC2.1 support
+
+2013.03.05 - version 1.0
+ * Initial "lite" version released
